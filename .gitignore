@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env*
+!.env.example
+.local-data/
+.vercel/
+coverage/
+*.tsbuildinfo
+design/*preview*.png
+design/prototype-*.png
+design/app-*.png
+design/runtime-*
