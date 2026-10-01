@@ -10,3 +10,4 @@ design/*preview*.png
 design/prototype-*.png
 design/app-*.png
 design/runtime-*
+.vercel
